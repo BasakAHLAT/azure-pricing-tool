@@ -89,4 +89,4 @@ Microsoft'un resmi [Azure Retail Prices API](https://prices.azure.com/api/retail
 
 ## Geliştiren
 
-**Başak Ahlat** — Technical Presales, Data Market Bilgi Hizmetleri A.Ş.
+**Başak Ahlat** 
