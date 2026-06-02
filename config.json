@@ -1,0 +1,24 @@
+{
+  "region": "westeurope",
+  "currency": "USD",
+  "hours_per_month": 730,
+  "resources": {
+    "vms": [
+      {"sku": "Standard_D2s_v5", "count": 1},
+      {"sku": "Standard_D4s_v5", "count": 2}
+    ],
+    "disks": [
+      {"type": "P10", "count": 2},
+      {"type": "P20", "count": 1}
+    ],
+    "app_services": [
+      {"tier": "P1v3", "count": 1}
+    ],
+    "sql_databases": [
+      {"tier": "GP_Gen5_2", "count": 1}
+    ],
+    "storage_accounts": [
+      {"type": "LRS", "gb": 500}
+    ]
+  }
+}
